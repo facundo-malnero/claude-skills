@@ -5,7 +5,7 @@ Shared Claude Code skills for the Light-it team.
 ## Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/facundomalnero/claude-skills/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/facundo-malnero/claude-skills/main/install.sh | bash
 ```
 
 A TUI will let you pick which skills to install. Requires `gum` or `fzf` for the interactive selector — falls back to a plain `[Y/n]` prompt if neither is available.
