@@ -1,7 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
-REPO="facundomalnero/claude-skills"
+REPO="facundo-malnero/claude-skills"
 BRANCH="main"
 API_BASE="https://api.github.com/repos/$REPO/contents"
 RAW_BASE="https://raw.githubusercontent.com/$REPO/$BRANCH"
